@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  text-align: center;
+  justify-content: space-around;
+  display: flex;
+  background-color: deeppink;
 }
 
 .App-logo {
@@ -36,3 +40,10 @@
     transform: rotate(360deg);
   }
 }
+.div1{
+  background-color: rgb(235, 154, 181);
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  height: 650px;
+  }
